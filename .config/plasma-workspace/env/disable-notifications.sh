@@ -1,0 +1,1 @@
+export KDE_NO_NOTIFY=1

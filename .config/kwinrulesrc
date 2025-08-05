@@ -1,0 +1,10 @@
+[91e4d362-d94f-49fe-9d94-bc321f707ad9]
+Description=Параметры для нового окна
+Enabled=false
+opacityactiverule=2
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=1
+rules=91e4d362-d94f-49fe-9d94-bc321f707ad9
